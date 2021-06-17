@@ -1,2 +1,2 @@
-# nodejs-sample
-NodeJs CRUD with mongo and express
+# node-sample
+Sample CRUD built with node, express and mongo
